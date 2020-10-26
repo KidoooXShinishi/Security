@@ -1,0 +1,19 @@
+{
+  "dir": "/home/moist/Discord/Neptune", // Path to your home directory containing the bot files
+  "discord": {
+    "token": "TOKEN",
+    "prefix": "-",
+  },
+  "mysql": { // MySQL
+    "host": "HOST",
+    "user": "USER",
+    "password": "PASSWORD",
+    "database": "DATABASE"
+  },
+  "nep": { // Neptune API (https://github.com/MoistSenpai/Neptune-API)
+    "key": "KEY"
+  },
+  "wolke": {
+    "key": "KEY" // https://weeb.sh/
+  }
+}
